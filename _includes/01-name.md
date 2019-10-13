@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+<h1> Github Lab <h1>
+ <p> Erik Gallardo-Cruz <p>
